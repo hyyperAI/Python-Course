@@ -1,3 +1,9 @@
+Caesar a popular substitution cipher, where the alphabet is shifted up or down a specified number of positions.
+
+Shift the entire alphabet by the number you picked and write it down below your original alphabet (as shown above).
+Pick a message to write to your friend. ...
+Write down your encoded message using your shifted alphabet. ...
+Give your friend the encoded message and tell them the key.
 The Caesar cipher is a simple encryption technique that can be used to protect your website's content from search engine bots. By encrypting your content, you can prevent bots from crawling and indexing your pages, which can help you improve your website's ranking in search results.
 
 Here are some of the benefits of using a Caesar cipher with SEO:
