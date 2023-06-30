@@ -1,4 +1,4 @@
-umport random
+import random
 
 easy_level_guess=10
 hard_level_guess=5
